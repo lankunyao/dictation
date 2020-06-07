@@ -4,8 +4,8 @@ import pymysql
 import random
 
 host = "localhost"
-user = "root"
-pwd = "lky19990828"
+user = ""
+pwd = ""
 db = "words"
 
 
